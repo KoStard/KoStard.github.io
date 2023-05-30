@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://kostard.github.io/blog/</loc>
+    <lastmod>2023-05-22T22:21:57+02:00</lastmod>
+  </url><url>
+    <loc>https://kostard.github.io/</loc>
+    <lastmod>2023-05-22T22:21:57+02:00</lastmod>
+  </url><url>
+    <loc>https://kostard.github.io/blog/2023/06/meaninglessness/</loc>
+    <lastmod>2023-05-22T22:21:57+02:00</lastmod>
+  </url><url>
+    <loc>https://kostard.github.io/blog/2023/06/the-simple-questions/</loc>
+    <lastmod>2023-05-22T22:01:00+02:00</lastmod>
+  </url><url>
+    <loc>https://kostard.github.io/blog/2023/06/the-why-in-life/</loc>
+    <lastmod>2023-05-22T21:58:55+02:00</lastmod>
+  </url><url>
     <loc>https://kostard.github.io/about/</loc>
     <lastmod>2023-05-21T16:01:39+02:00</lastmod>
   </url><url>
@@ -9,8 +24,6 @@
     <lastmod>2023-05-21T15:50:54+02:00</lastmod>
   </url><url>
     <loc>https://kostard.github.io/categories/</loc>
-  </url><url>
-    <loc>https://kostard.github.io/</loc>
   </url><url>
     <loc>https://kostard.github.io/tags/</loc>
   </url>
