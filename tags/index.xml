@@ -3,12 +3,9 @@
   <channel>
     <title>Tags on KoStard&#39;s Home Page</title>
     <link>https://kostard.github.io/tags/</link>
-    <description>KoStard&#39;s Home Page (Tags)</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Tags on KoStard&#39;s Home Page</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    
     <atom:link href="https://kostard.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
-    
-    
   </channel>
 </rss>
